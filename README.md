@@ -1,2 +1,1 @@
-# R25EH156
-A personal GitHub repository showcasing my projects, technical skills, learning journey, and work in Artificial Intelligence, Data Science, and software development.
+I am V P Nethra Sri, a second-year Artificial Intelligence and Data Science engineering student with an interest in artificial intelligence, data science, and software development. I enjoy building practical projects, exploring new technologies, and developing solutions to real-world problems while continuously improving my technical and problem-solving skills.
