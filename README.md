@@ -11,3 +11,6 @@ This repository includes projects that demonstrate my learning and practical exp
 * **Database:** MySQL
 * **Tools & Platforms:** Git, GitHub, VS Code
 * **IoT:** NodeMCU and basic IoT development
+## Repository Goals
+
+This repository documents my progress in learning and applying AI, Data Science, programming, and software development concepts. It will be updated regularly with new projects, technical skills, and learning experiences as I continue developing my knowledge and practical abilities.
