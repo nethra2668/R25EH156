@@ -14,3 +14,8 @@ This repository includes projects that demonstrate my learning and practical exp
 ## Repository Goals
 
 This repository documents my progress in learning and applying AI, Data Science, programming, and software development concepts. It will be updated regularly with new projects, technical skills, and learning experiences as I continue developing my knowledge and practical abilities.
+## Projects
+
+### Project 1: GitHub Fundamentals
+
+This project demonstrates my understanding of GitHub fundamentals, including repositories, branches, commits, pull requests, and GitHub Pages.
